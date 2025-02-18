@@ -1,15 +1,52 @@
  "Minhas ideias" > ideias.ph 
- Jogo de Terror indie simples (Inspirado em Pânico na Floresta)
+ Gênero: Terror indie (Inspirado em Pânico na Floresta)
+Descrição: Um jogo de terror com trocas de personagens a cada ação crucial. O jogador precisará tomar decisões rápidas para escapar de perigos,
+encontrar pistas e interagir com o ambiente. As escolhas influenciam o destino de cada personagem.
 
-Descrição dos 8 personagens (6 amigos e 2 monstros desconhecidos)
+Seis amigos decidem viajar juntos para um lugar isolado, buscando diversão e reencontros. No entanto, o que parecia ser um fim de 
+semana tranquilo se transforma em um pesadelo. Cada decisão pode significar sobreviver, ajudar ou morrer.
 
-*|1 Pedro/Peter : Moreno, meio alto 1,75, cabelos crespos curtos e bem cuidados, olhos castanhos escuros, estilo bem arrumado e discreto, humor totalmente
-brincalhão (as vezes serio quando quer), inteligente e cuidadoso com todos, estilos de musica internacionais. Passado traumático devido a bullyings, seus melhores amigos Lindha e Jackie
-o ajudou em seguir em frente. (Tem muito afeto com os dois e uma vida amorosa bem tocante) (apelido : pepe e pi).
-*|2 lindha : Branca, Cabelos lisos, olhos castanhos claros, sua altura é 1,65, estilo menininha arruamda de bairro nobre discreta,seu humor é bem
-contagiante, inteligente, cuidadosa com seus melhores amigos que conheceu na infancia em um período de bullying. (Ela tem um afeto misterioso por Pedro e Jackie
-mas Shippa a conexão dos dois).
-*|3 Jackie : Branquinho, meio alto 1,74, cabelos lisos e bem cortado, olhos verdes escuros, estilo arrumado como playboy, discreto, humor meio serio,
-brincalhão, inteligente e amostrado as vezes. Conheceu Pedro e Lindha no 1 ano do ensino fundamental sozinho e estranho. (Tem uma conexão com os dois
-mas seu sentimento é misterioso.
 
+Descrição da historia do jogo :
+7 amigos depois de anos sem se verem decidem se reencontrar novamente. Foi um momento feliz e confuso. Durante uma conversa
+todos decidiram sair juntos como sempre e ir a algum lugar novo pra passar o final de semana. Na cidade onde eles moram as vezes
+tinham desaparecimentos de pessoas sem nenhum tipo de rastro.
+Todos estao indo para o lugar que marcaram mas decidem parar em um lugar para descansarem. Com isso durante a noite Dieven e Tifane
+decidem sair para namorarem, durante quando eles estavam se beijando algo pareceu olhando para eles despercebido, Dieven escuta algo de novo
+e decidi ir e ver o que fez o barulho, Tifane ja assustada sente algo na perna dela, quando olha é uma cobra não venenosa e em seguida grita
+e todos correm para ver assustados.
+De manhã logo cedo eles vão ao local onde ira se reunirem, chegando lá a casa era grande e misteriosa. Essa casa possui uma maldiçao que 
+os tracam lá com monstros e seres de diversos tamanhos e uma possivel cidade oculta la dentro.
+
+
+Descrição dos 9 personagens (6 amigos e possiveis convidados e 2 monstros desconhecidos)
+
+1. Pedro/Peter
+
+Aparência: Moreno, 1,75m, cabelo crespo curto e bem cuidado, olhos castanhos escuros.
+Personalidade: Brincalhão, mas sério quando necessário. Inteligente e cuidadoso com todos.
+Passado: Sofreu bullying na infância, mas seus melhores amigos Lindha e Jackie o ajudaram a superar. Tem uma vida amorosa complexa.
+Apelidos: Pepe, Pi.
+2. Lindha
+
+Aparência: Branca, 1,65m, cabelo liso, olhos castanhos claros.
+Personalidade: Alegre e contagiante, sempre preocupada com os amigos.
+Passado: Conheceu Pedro e Jackie na infância. Possui sentimentos misteriosos por ambos.
+3. Jackie
+
+Aparência: Branco, 1,74m, cabelo liso bem cortado, olhos verdes escuros.
+Personalidade: Brincalhão, mas reservado. Às vezes amostrado.
+Passado: Conheceu Pedro e Lindha no ensino fundamental. Mantém sentimentos enigmáticos por eles.
+4. Dieven
+
+Aparência: Branco, 1,77m, cabelo curto, olhos escuros.
+Personalidade: Sério e misterioso, mas se preocupa muito com as pessoas, especialmente sua namorada.
+5. Tifane
+
+Aparência: Loira com luzes, 1,66m, olhos escuros.
+Personalidade: Caótica, assustada e impulsiva.
+Relacionamento: Namora Dieven.
+6. Caroline
+
+Aparência: Morena, 1,65m, cabelo cacheado, olhos escuros.
+Personalidade: Reservada e misteriosa.
