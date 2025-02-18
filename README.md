@@ -1,2 +1,2 @@
 # Experimento
-Buscando ideias para projetos
+ideias para um fazer projeto para criar um jogo de terror indie simples.
